@@ -1,0 +1,2 @@
+# classificationcitra_usingmanualmodels_DeepLearning
+tugas deep learning_Anugrah Aidin Yotolembah_F55120093_A
